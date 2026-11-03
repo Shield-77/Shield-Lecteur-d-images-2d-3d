@@ -1,3 +1,5 @@
 # Shield-Lecteur-d-images-2d-3d
+**Codex was used to generate the C++**
+
 Shield Photo est une visionneuse d'images homebrew pour 3DS. Elle détecte automatiquement les formats d'image compatibles et les affiche sans conversion manuelle. Elle propose une navigation simple, un affichage optimisé et une fonction de conversion 2D vers 3D stéréoscopique.
 
